@@ -1,0 +1,12 @@
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\bin\Debug\THA_Week 3_Carren_H.exe.config
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\bin\Debug\THA_Week 3_Carren_H.exe
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\bin\Debug\THA_Week 3_Carren_H.pdb
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.csproj.AssemblyReference.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.csproj.SuggestedBindingRedirects.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week_3_Carren_H.Form_main.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week_3_Carren_H.Form_2ndform.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week_3_Carren_H.Properties.Resources.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.csproj.GenerateResource.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.csproj.CoreCompileInputs.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.exe
+D:\Mine\kumpulan tugas\ALPRO\THA_Week 3_Carren_H\THA_Week 3_Carren_H\obj\Debug\THA_Week 3_Carren_H.pdb
